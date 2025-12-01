@@ -16,7 +16,7 @@ https://youtu.be/t7Hp3kjjliE
 Drop **any syllabus PDF** → Get instantly:
 - Clean list of all topics
 - Personalized 2-session-per-day study schedule
-- 2 high-quality MCQs per topic (Option A = correct)
+- high-quality MCQs per topic (Option A = correct)
 
 **Zero typing. Zero planning. Just study.**
 
