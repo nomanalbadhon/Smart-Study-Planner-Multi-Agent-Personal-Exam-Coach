@@ -10,7 +10,7 @@ Capstone Project for Google 5-Day AI Agents Intensive Course
 **Submitted**: December 2025  
 
 ### Project Demo (60 seconds)
-https://youtu.be/dQw4w9WgXcQ *(replace with your real video link or delete this line)*
+https://youtu.be/t7Hp3kjjliE
 
 ### What This Agent Does
 Drop **any syllabus PDF** → Get instantly:
@@ -38,7 +38,8 @@ python run_demo.py
 
 To use your own syllabus:
 Just drop your PDF into the sample_data/ folder (any name) → run again → done!
-Project Structure
+
+Project Structure:
 textSmart-Study-Planner/
 ├── run_demo.py                  ← Main script
 ├── sample_data/
