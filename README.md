@@ -2,7 +2,7 @@
 Capstone Project for Google 5-Day AI Agents Intensive Course
 
 
-# Syllabus-to-StudyAgent  
+# Smart-Study-Planner  
 **Your Personal AI Study Concierge Agent**
 
 **Capstone Project** – Google 5-Day AI Agents Intensive Course  
@@ -29,8 +29,8 @@ Drop **any syllabus PDF** → Get instantly:
 
 ### How to Run (30 seconds)
 ```bash
-git clone https://github.com/YOUR_USERNAME/Syllabus-to-StudyAgent.git
-cd Syllabus-to-StudyAgent
+git clone https://github.com/nomanalbadhon/Smart-Study-Planner-Multi-Agent-Personal-Exam-Coach.git
+cd Smart-Study-Planner
 pip install pypdf reportlab
 python run_demo.py
 
@@ -39,7 +39,7 @@ python run_demo.py
 To use your own syllabus:
 Just drop your PDF into the sample_data/ folder (any name) → run again → done!
 Project Structure
-textSyllabus-to-StudyAgent/
+textSmart-Study-Planner/
 ├── run_demo.py                  ← Main script
 ├── sample_data/
 │   └── sample_syllabus.pdf      ← Example (replace with yours)
